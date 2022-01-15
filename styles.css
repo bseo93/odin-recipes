@@ -1,5 +1,5 @@
 html {
-    background-color: aqua;
+    background-color: gray;
     color: white;
     font-family: verdanna, sans-serif;
 }
@@ -7,5 +7,16 @@ h1 {
     font-size: 32px;
 }
 ul {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+p{
+    font-size: 24px;
+}
+ol {
     font-size: 24px;
 }
