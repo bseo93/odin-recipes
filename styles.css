@@ -3,20 +3,42 @@ html {
     color: white;
     font-family: verdanna, sans-serif;
 }
-h1 {
+.titlepage {
     font-size: 32px;
 }
-ul {
+.ingredients {
     font-size: 24px;
 }
 
-h2 {
+.description {
     font-size: 28px;
 }
 
-p{
+/*p{
     font-size: 24px;
 }
-ol {
+*/
+
+.steps {
     font-size: 24px;
 }
+.recipes{
+    font-size: 24px;
+}
+.item1 :hover{
+    background-color:blue;
+    color:white;
+}
+.item2 :hover{
+    background-color:blue;
+    color:white;
+}
+.item3 :hover{
+    background-color:blue;
+    color:white;
+}
+
+.d1, .materials, .directions{
+    font-size: 20px;
+}
+
